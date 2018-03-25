@@ -15,5 +15,4 @@ hunger_games = media.Movie("Hunger Games", "A really real reality show", "https:
 
 movies = [toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
 
-def run():
-    fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies)
